@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#intro{
+    background: linear-gradient(blue 20% ,gray 50%);
+}
+
+#origami1{
+   background-color:lightcoral;
+}
+
+#contact_1{
+    background-color: cornflowerblue;
+}
+#contact_1 h3
+{
+    display: inline;
+    font-size: 20px;
+}
+#contact_1 a
+{
+    color: white;
+    text-shadow:none;
+    
+
+.line {
+    height: 6px;
+    background-color:black;
+    width: 70px;
+    margin: 8px auto;
+}
+
